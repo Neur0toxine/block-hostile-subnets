@@ -8,6 +8,7 @@ Blocks hostile subnets which are scanning for nefarious reasons.
 - bash
 - cron
 - iptables & ip6tables & ipset
+- python3, pip, python-venv
 
 # Usage
 
