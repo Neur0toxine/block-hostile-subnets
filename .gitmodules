@@ -1,0 +1,6 @@
+[submodule "mine/block-hostile-subnets/AS_Network_List"]
+	path = AS_Network_List
+	url = https://github.com/C24Be/AS_Network_List.git
+[submodule "mine/block-hostile-subnets/CyberOK_Skipa_ips"]
+	path = CyberOK_Skipa_ips
+	url = https://github.com/tread-lightly/CyberOK_Skipa_ips.git

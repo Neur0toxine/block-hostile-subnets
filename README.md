@@ -11,9 +11,9 @@ Blocks hostile subnets which are scanning for nefarious reasons.
 
 # Usage
 
-1. Clone to `/opt`
+1. Clone to `/opt` using `git clone --recurse-submodules`.
 2. Add to crontab:
 ```crontab
-0 3 * * * /opt/block-hostile-subnets/apply.sh
+0 3 * * * bash /opt/block-hostile-subnets/apply.sh
 ```
 3. Optional: run script once as root.
